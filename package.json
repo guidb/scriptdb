@@ -1,0 +1,25 @@
+{
+  "name": "@guidb/scriptdb",
+  "version": "0.0.0",
+  "description": "db script ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guidb/scriptdb.git"
+  },
+  "keywords": [
+    "json",
+    "database",
+    "properties",
+    "scriptdb"
+  ],
+  "author": "@azkadev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guidb/scriptdb/issues"
+  },
+  "homepage": "https://github.com/guidb/scriptdb#readme"
+}
