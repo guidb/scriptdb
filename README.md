@@ -30,7 +30,8 @@
 
 1. **Full sample** 
 
-```jsconst lib = require("@guidb/scriptdb")
+```js
+const lib = require("@guidb/scriptdb")
 const scriptdb = new lib.memori("./script.json")
 var key = "your_key"
 var data = "your data"
@@ -45,4 +46,5 @@ if (dlt) {
     console.log("data tidak berhasil di haus kemungkinan belum ada")
 }
 var getValues = scriptdb.getValues()
-console.log(getValues)```
+console.log(getValues)
+```
